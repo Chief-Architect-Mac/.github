@@ -1,2 +1,2 @@
 # .github
-SEO description: Download Chief Architect for Mac – industry-leading architectural software with powerful design automation, 3D visualization, and full optimization for Apple Silicon. Perfect for architects, builders, and interior designers.
+Download Chief Architect for Mac – industry-leading architectural software with powerful design automation, 3D visualization, and full optimization for Apple Silicon. Perfect for architects, builders, and interior designers.
